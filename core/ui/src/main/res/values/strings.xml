@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="header_name">RUNERO Touch</string>
+    <string name="default_coffee_name">Капучино эконом</string>
+    <string name="default_coffee_price">199</string>
+    <string name="default_coffee_volume">0.33</string>
+    <string name="lang">RU</string>
+    <string name="current_temperature">%1$s°</string>
+    <string name="rub_sign">₽</string>
+    <string name="price">%1$s ₽</string>
+</resources>
